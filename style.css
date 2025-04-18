@@ -1,9 +1,4 @@
-#navbar {
-  background: "#fffff2";
-  padding: 1rem;
-}
-
-footer {
+#footer {
   margin-top: 2rem;
-  display: none;
+  display: none !important;
 }
